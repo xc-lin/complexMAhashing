@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.c
+assert.h
+-
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.c
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.h
+
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/pages.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.h
+hash.h
+/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.h
+
