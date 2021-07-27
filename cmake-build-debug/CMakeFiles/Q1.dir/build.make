@@ -62,10 +62,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1
+CMAKE_SOURCE_DIR = /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Q1.dir/depend.make
@@ -78,42 +78,42 @@ include CMakeFiles/Q1.dir/flags.make
 
 CMakeFiles/Q1.dir/bits.c.o: CMakeFiles/Q1.dir/flags.make
 CMakeFiles/Q1.dir/bits.c.o: ../bits.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Q1.dir/bits.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Q1.dir/bits.c.o -c /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Q1.dir/bits.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Q1.dir/bits.c.o -c /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/bits.c
 
 CMakeFiles/Q1.dir/bits.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Q1.dir/bits.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.c > CMakeFiles/Q1.dir/bits.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/bits.c > CMakeFiles/Q1.dir/bits.c.i
 
 CMakeFiles/Q1.dir/bits.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Q1.dir/bits.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.c -o CMakeFiles/Q1.dir/bits.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/bits.c -o CMakeFiles/Q1.dir/bits.c.s
 
 CMakeFiles/Q1.dir/hash.c.o: CMakeFiles/Q1.dir/flags.make
 CMakeFiles/Q1.dir/hash.c.o: ../hash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Q1.dir/hash.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Q1.dir/hash.c.o -c /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Q1.dir/hash.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Q1.dir/hash.c.o -c /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/hash.c
 
 CMakeFiles/Q1.dir/hash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Q1.dir/hash.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.c > CMakeFiles/Q1.dir/hash.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/hash.c > CMakeFiles/Q1.dir/hash.c.i
 
 CMakeFiles/Q1.dir/hash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Q1.dir/hash.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.c -o CMakeFiles/Q1.dir/hash.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/hash.c -o CMakeFiles/Q1.dir/hash.c.s
 
 CMakeFiles/Q1.dir/pages.c.o: CMakeFiles/Q1.dir/flags.make
 CMakeFiles/Q1.dir/pages.c.o: ../pages.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Q1.dir/pages.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Q1.dir/pages.c.o -c /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/pages.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Q1.dir/pages.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Q1.dir/pages.c.o -c /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/pages.c
 
 CMakeFiles/Q1.dir/pages.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Q1.dir/pages.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/pages.c > CMakeFiles/Q1.dir/pages.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/pages.c > CMakeFiles/Q1.dir/pages.c.i
 
 CMakeFiles/Q1.dir/pages.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Q1.dir/pages.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/pages.c -o CMakeFiles/Q1.dir/pages.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/pages.c -o CMakeFiles/Q1.dir/pages.c.s
 
 # Object files for target Q1
 Q1_OBJECTS = \
@@ -129,7 +129,7 @@ Q1: CMakeFiles/Q1.dir/hash.c.o
 Q1: CMakeFiles/Q1.dir/pages.c.o
 Q1: CMakeFiles/Q1.dir/build.make
 Q1: CMakeFiles/Q1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable Q1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable Q1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Q1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -142,6 +142,6 @@ CMakeFiles/Q1.dir/clean:
 .PHONY : CMakeFiles/Q1.dir/clean
 
 CMakeFiles/Q1.dir/depend:
-	cd /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1 /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1 /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug /Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles/Q1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug /Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles/Q1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Q1.dir/depend
 

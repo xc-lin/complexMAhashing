@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/bits.c" "/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles/Q1.dir/bits.c.o"
-  "/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/hash.c" "/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles/Q1.dir/hash.c.o"
-  "/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/pages.c" "/Users/a606/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/cmake-build-debug/CMakeFiles/Q1.dir/pages.c.o"
+  "/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/bits.c" "/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles/Q1.dir/bits.c.o"
+  "/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/hash.c" "/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles/Q1.dir/hash.c.o"
+  "/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/pages.c" "/Users/lxc/CLionProjects/unsw/comp9315/FinalExam/complexMAhashing-Q1/complexMAhashing/cmake-build-debug/CMakeFiles/Q1.dir/pages.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
